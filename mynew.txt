@@ -3,3 +3,4 @@ what is git
 branch master
 github is good
 dev branch is good
+master new content
